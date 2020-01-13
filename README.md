@@ -1,1 +1,1 @@
-# Git & Github 의 활용법 강의
+# Git & Github 활용법 강의
